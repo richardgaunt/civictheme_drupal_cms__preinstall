@@ -1,4 +1,4 @@
-name: 'CivicTheme'
+name: 'CivicTheme Pre-Install Recipe'
 description: 'Install civictheme'
 type: 'Enabling civictheme to register layouts (see: https://www.drupal.org/project/drupal/issues/3204271)'
 install:
